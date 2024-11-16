@@ -1,0 +1,3 @@
+[submodule "remotes/woof-CE"]
+	path = remotes/woof-CE
+	url = http://github.com/puppylinux-woof-CE/woof-CE
